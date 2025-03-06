@@ -1,0 +1,29 @@
+{
+  "name": "random-math-toolkit",
+  "version": "1.0.0",
+  "description": "Простая и мощная JavaScript библиотека для генерации случайных значений",
+  "main": "index.js",
+  "scripts": {
+    "start": "node random.js"
+  },
+  "keywords": [
+    "random",
+    "math",
+    "generator",
+    "color",
+    "array",
+    "boolean",
+    "hex",
+    "javascript",
+    "utility"
+  ],
+  "author": "axaero",
+  "license": "ISC",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
